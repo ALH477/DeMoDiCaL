@@ -1,4 +1,4 @@
-# DeMoDical (WIP)
+# DeMoDiCaL (WIP)
 **High-Speed One-Way Optical Communication Bus**  
 © 2025 DeMoD LLC. All rights reserved.
 
