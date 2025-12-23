@@ -1,4 +1,4 @@
-# DeMoDical
+# DeMoDical (WIP)
 **High-Speed One-Way Optical Communication Bus**  
 © 2025 DeMoD LLC. All rights reserved.
 
@@ -153,7 +153,7 @@ Detailed setup diagrams and scripts are provided upon licensing.
 - Q3 2026: Enhanced security features, including hardware encryption modules.
 
 ## Contact and Support
-For inquiries, licensing, or technical support, please email info@demodllc.com or visit our website at www.demodllc.com.
+For inquiries, licensing, or technical support, please email info@demod.ltd or visit our website at demod.ltd
 
 ## References and Further Reading
 - AMD/Xilinx UltraScale+ Documentation: [AMD Resources](https://www.amd.com/en/products/adaptive-socs-fpgas.html)
